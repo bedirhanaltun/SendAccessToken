@@ -1,0 +1,6 @@
+framework module Pods_EmailProject {
+  umbrella header "Pods-EmailProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
